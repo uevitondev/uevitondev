@@ -1,6 +1,6 @@
 ## Olá!👋 eu sou Uéviton Santos, estudante Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-#### -💻 Estudando Back-End com JAVA, praticando e aplicando diversos conceitos e tecmologias durante o desenvolvimento de aplicações Desktop e Web, como: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud, Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul, Config Server.
+#### -💻 Estudando Back-End com JAVA, praticando e aplicando diversos conceitos e tecnologias durante o desenvolvimento de aplicações Desktop e Web, como: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud, Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul, Config Server.
 
 <br>
 
