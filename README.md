@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/uevitondev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uevitondev&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uevitondev&show_icons=true&theme=dark&include_all_commits=true&count_private=tue"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uevitondev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
