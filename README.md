@@ -1,6 +1,7 @@
-## Olá!👋 eu sou Uéviton Santos, estudante Tecnólogo em Análise e Desenvolvimento de Sistemas.
+## Olá!👋 eu sou Uéviton Santos, 24 anos, estudante Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-#### -💻 Estudando desenvolvimento Back-End com JAVA, praticando e aplicando diversos conceitos e tecnologias durante o desenvolvimento de aplicações Desktop e Web, como: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud, Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul, Config Server.
+#### -💻 Cursando 3º Semestre, Tecnólogo em Análise e Desenvolvimento de Sistemas , estudando e praticando o desenvolvimento backend no ecossistema Spring com Java, aplicando diversos conceitos no desenvolvimento de aplicações web e desktop. Estou buscando a primeira oportunidade na área de desenvolvimento visando aplicar meus conhecimentos no desenvolvimento de software, aprimorando minhas noções de desenvolvimento e trabalho em equipe, estou em transição de carreira e ainda não tenho experiência na área de tecnologia, preciso de uma oportunidade para iniciar minha carreira profissional.
+Estudando desenvolvimento Back-End com JAVA: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud, Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul, Config Server.
 
 <br>
 
