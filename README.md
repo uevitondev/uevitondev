@@ -8,11 +8,9 @@ Estudando desenvolvimento Back-End com JAVA: OO, UML, JDBC, JavaFX, Spring Boot,
 
 <div align="center">
   <a href="https://github.com/uevitondev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uevitondev&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uevitondev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=uevitondev&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uevitondev&layout=compact&theme=radical"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="display: inline_block"><br>
   <img align="center" alt="uevitondev-Jv" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
