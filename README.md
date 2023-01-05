@@ -8,8 +8,8 @@ Estudando desenvolvimento Back-End com JAVA: OO, UML, JDBC, JavaFX, Spring Boot,
 
 <div align="center">
   <a href="https://github.com/uevitondev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uevitondev&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uevitondev&layout=compact&theme=radical"/>
+  <img height="180em" src="https://GitHub-Readme-Stats.vercel.app/api?username=uevitondev&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://GitHub-Readme-Stats.vercel.app/api/top-langs/?username=uevitondev&layout=compact&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
