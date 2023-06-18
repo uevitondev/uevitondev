@@ -13,7 +13,7 @@ Algumas tecnologias que estou desenvolvendo: OO, UML, JDBC, JavaFX, Spring Boot,
 
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uevitondev&bg_color=0d0d0d&color=205fc5&line=085ea0&point=25cc0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uevitondev&bg_color=0d0d0d&color=205fc5&line=085ea0&point=25cc0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
   <div style="display: inline_block"><br>
   <img align="center" alt="uevitondev-Jv" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  
