@@ -1,6 +1,5 @@
 ## Olá!👋 eu sou Uéviton Santos.
-#### Estou Cursando o 4º Semestre de Tecnólogo em Análise e Desenvolvimento de Sistemas, estudando e praticando o desenvolvimento backend especializado em Java e ecossistema Spring, aplicando diversos conceitos no desenvolvimento de aplicações web. Estou buscando a primeira oportunidade na área de desenvolvimento visando aplicar meus conhecimentos no desenvolvimento de software, aprimorando minhas noções de desenvolvimento e trabalho em equipe, estou em transição de carreira e ainda não tenho experiência na área de tecnologia, preciso de uma oportunidade para iniciar minha carreira profissional.
-Algumas tecnologias que estou desenvolvendo: OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Microsserviços Java com Spring Boot e Spring Cloud, Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul, Config Server.
+#### Desenvolvedor backend graduado em Ensino Superior Tecnólogo em Análise e Desenvolvimento de Sistemas (UNICID), apaixonado por tecnologia, desenvolvimento e inovações. Atuo desenvolvendo aplicações a fim de aperfeiçoar minhas habilidades de codificação, sempre disponível para aplicar minhas habilidades e conhecimentos em projetos desafiadores, especialmente desenvolvimento backend com Java e ecossistema Spring.
 
 <br>
 
